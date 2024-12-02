@@ -1,5 +1,7 @@
 ipdb
 opencv-python
 pillow
-torch
 tensorboardX
+scikit-image==0.24.0
+matplotlib
+pickleshare
